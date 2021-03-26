@@ -13,3 +13,5 @@ function multiplicar(x, y) {
 function dividir(x, y) {
     return x/y
 }
+
+module.exports = {soma, subtrair, multiplicar, dividir}
